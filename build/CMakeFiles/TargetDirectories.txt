@@ -1,0 +1,3 @@
+C:/Users/komin/Absolute dogshit coding projects/F1-game/build/CMakeFiles/F1Game.dir
+C:/Users/komin/Absolute dogshit coding projects/F1-game/build/CMakeFiles/edit_cache.dir
+C:/Users/komin/Absolute dogshit coding projects/F1-game/build/CMakeFiles/rebuild_cache.dir
